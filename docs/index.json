@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-03-02",
-  "totalPlugins": 43,
+  "generatedAt": "2026-03-03",
+  "totalPlugins": 44,
   "plugins": [
+    {
+      "name": "AI文字转语音",
+      "author": "vhukze",
+      "version": "1.0.0",
+      "updateTime": 20260303,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/vhukze/AITextToVoice",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/vhukze/AITextToVoice"
+    },
     {
       "name": "关键词通知",
       "author": "。。",

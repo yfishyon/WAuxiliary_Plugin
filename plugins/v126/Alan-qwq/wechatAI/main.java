@@ -1,7 +1,7 @@
 // ****核心配置区 仅需修改此处内容****
 
 // 请在下方填写API key
-String API_KEY = "你的硅基流动API Key";
+String API_KEY = "你的API Key";
 
 // 请在下方填写角色设定内容
 String SYSTEM_PROMPT = "角色设定内容";
@@ -65,8 +65,8 @@ String getString(Object obj, String methodName) {
 
 public void onLoad() {
     log("私聊AI回复插件加载成功");
-    if (API_KEY == null || API_KEY.isEmpty() || API_KEY.contains("你的硅基流动API Key")) {
-        toast("错误：请先配置你的硅基流动API Key！");
+    if (API_KEY == null || API_KEY.isEmpty() || API_KEY.contains("你的API Key")) {
+        toast("错误：请先配置你的API Key！");
         log("插件初始化失败：未配置有效的API Key");
         return;
     }

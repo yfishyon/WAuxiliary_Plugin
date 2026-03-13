@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-03-07",
+  "generatedAt": "2026-03-13",
   "totalPlugins": 45,
   "plugins": [
     {
       "name": "微信AI回复插件",
       "author": "Alan-qwq",
-      "version": 2,
-      "updateTime": 20260307,
-      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Alan-qwq/微信AI回复插件",
-      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Alan-qwq/微信AI回复插件"
+      "version": "1.2.1",
+      "updateTime": 20260313,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Alan-qwq/wechatAI",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Alan-qwq/wechatAI"
     },
     {
       "name": "AI文字转语音",

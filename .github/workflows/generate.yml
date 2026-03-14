@@ -52,7 +52,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "docs: auto generate plugin list"
+            git commit -m "文档: 自动构建插件列表"
             git push
           fi
 

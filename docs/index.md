@@ -6,6 +6,34 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: Vocu ai文转音@。。
+    details: 版本 1.0.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/Vocu ai文转音
+
+  - title: 分组管理@。。
+    details: 版本 1.1.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/分组管理
+
+  - title: 群发助手@。。
+    details: 版本 1.1.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手
+
+  - title: 自动回复配置版@。。
+    details: 版本 2.1.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版
+
+  - title: 自动收款@。。
+    details: 版本 1.2.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动收款
+
+  - title: 进退群配置版@。。
+    details: 版本 2.1.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版
+
+  - title: 音频转换@。。
+    details: 版本 1.1.0 | 更新于 20260318
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换
+
   - title: 微信AI回复插件@Alan-qwq
     details: 版本 1.2.1 | 更新于 20260313
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Alan-qwq/wechatAI
@@ -18,10 +46,6 @@ features:
     details: 版本 1.0.0 | 更新于 20260302
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/关键词通知
 
-  - title: 群发助手@。。
-    details: 版本 1.0.0 | 更新于 20260302
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手
-
   - title: 定时发送助手@冰块
     details: 版本 1.0.0 | 更新于 20260302
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/冰块/定时发送助手
@@ -29,10 +53,6 @@ features:
   - title: 艾特关键词自动回复@冰块
     details: 版本 1.0.0 | 更新于 20260302
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/冰块/艾特关键词自动回复
-
-  - title: 分组管理@。。
-    details: 版本 1.0.0 | 更新于 20260301
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/分组管理
 
   - title: 自动增加步数@Wukon
     details: 版本 1.0.6 | 更新于 20260228
@@ -45,14 +65,6 @@ features:
   - title: 记事本@轻乳
     details: 版本 1.0.0 | 更新于 20260222
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/轻乳/记事本插件
-
-  - title: 自动收款@。。
-    details: 版本 1.1.0 | 更新于 20251226
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动收款
-
-  - title: 音频转换@。。
-    details: 版本 1.0.0 | 更新于 20251218
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换
 
   - title: AI作图@vhukze
     details: 版本 1.5.0 | 更新于 20251013
@@ -73,14 +85,6 @@ features:
   - title: 自动增加步数@yixin
     details: 版本 1.0.0 | 更新于 20251010
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/yixin/StepChange
-
-  - title: 自动回复配置版@。。
-    details: 版本 2.0.0 | 更新于 20251010
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版
-
-  - title: 进退群配置版@。。
-    details: 版本 2.0.0 | 更新于 20251010
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版
 
   - title: 自动同意好友@Hd
     details: 版本 1.0.0 | 更新于 20250917

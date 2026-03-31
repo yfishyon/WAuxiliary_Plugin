@@ -6,6 +6,10 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: 自动增加步数@原作者: Wukon, 修改: VAY冬冬
+    details: 版本 1.0.7 | 更新于 20260327
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/VAY冬冬/AutoStep
+
   - title: Vocu ai文转音@。。
     details: 版本 1.0.0 | 更新于 20260318
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/Vocu ai文转音

@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-03-17",
-  "totalPlugins": 46,
+  "generatedAt": "2026-03-31",
+  "totalPlugins": 47,
   "plugins": [
+    {
+      "name": "自动增加步数",
+      "author": "原作者: Wukon, 修改: VAY冬冬",
+      "version": "1.0.7",
+      "updateTime": 20260327,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/VAY冬冬/AutoStep",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/VAY冬冬/AutoStep"
+    },
     {
       "name": "Vocu ai文转音",
       "author": "。。",

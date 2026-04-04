@@ -6,6 +6,10 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: 星座运势@晚药
+    details: 版本 1.1.0 | 更新于 20260402
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/星座运势
+
   - title: 群聊统计分析@晚药
     details: 版本 9.1.0 | 更新于 20260401
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/群聊统计分析＋定时发送

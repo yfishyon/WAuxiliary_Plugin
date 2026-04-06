@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-04-04",
-  "totalPlugins": 49,
+  "generatedAt": "2026-04-06",
+  "totalPlugins": 50,
   "plugins": [
+    {
+      "name": "天气查询配置版",
+      "author": "晚药",
+      "version": "2.2.0",
+      "updateTime": 20260404,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/天气预报",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/天气预报"
+    },
     {
       "name": "星座运势",
       "author": "晚药",

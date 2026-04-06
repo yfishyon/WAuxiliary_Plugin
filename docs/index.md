@@ -6,6 +6,10 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: 天气查询配置版@晚药
+    details: 版本 2.2.0 | 更新于 20260404
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/天气预报
+
   - title: 星座运势@晚药
     details: 版本 1.1.0 | 更新于 20260402
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/星座运势

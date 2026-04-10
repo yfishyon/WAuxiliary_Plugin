@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-04-06",
-  "totalPlugins": 50,
+  "generatedAt": "2026-04-10",
+  "totalPlugins": 51,
   "plugins": [
+    {
+      "name": "群发助手",
+      "author": "。。",
+      "version": "1.2.0",
+      "updateTime": 20260410,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手"
+    },
+    {
+      "name": "自动回复配置版",
+      "author": "。。",
+      "version": "2.2.0",
+      "updateTime": 20260410,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版"
+    },
+    {
+      "name": "自动抢红包(模拟手动抢版)",
+      "author": "。。",
+      "version": "1.0.0",
+      "updateTime": 20260410,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动抢红包(模拟手动抢版)",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动抢红包(模拟手动抢版)"
+    },
+    {
+      "name": "进退群配置版",
+      "author": "。。",
+      "version": "2.3.0",
+      "updateTime": 20260410,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版"
+    },
+    {
+      "name": "音频转换",
+      "author": "。。",
+      "version": "1.2.0",
+      "updateTime": 20260410,
+      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换",
+      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换"
+    },
     {
       "name": "天气查询配置版",
       "author": "晚药",
@@ -25,14 +65,6 @@
       "updateTime": 20260401,
       "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/群聊统计分析＋定时发送",
       "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/群聊统计分析＋定时发送"
-    },
-    {
-      "name": "进退群配置版",
-      "author": "。。",
-      "version": "2.2.0",
-      "updateTime": 20260331,
-      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版",
-      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版"
     },
     {
       "name": "自动增加步数",
@@ -59,36 +91,12 @@
       "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/分组管理"
     },
     {
-      "name": "群发助手",
-      "author": "。。",
-      "version": "1.1.0",
-      "updateTime": 20260318,
-      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手",
-      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手"
-    },
-    {
-      "name": "自动回复配置版",
-      "author": "。。",
-      "version": "2.1.0",
-      "updateTime": 20260318,
-      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版",
-      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版"
-    },
-    {
       "name": "自动收款",
       "author": "。。",
       "version": "1.2.0",
       "updateTime": 20260318,
       "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动收款",
       "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动收款"
-    },
-    {
-      "name": "音频转换",
-      "author": "。。",
-      "version": "1.1.0",
-      "updateTime": 20260318,
-      "homeLink": "https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换",
-      "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换"
     },
     {
       "name": "微信AI回复插件",

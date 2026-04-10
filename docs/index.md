@@ -6,6 +6,26 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: 群发助手@。。
+    details: 版本 1.2.0 | 更新于 20260410
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手
+
+  - title: 自动回复配置版@。。
+    details: 版本 2.2.0 | 更新于 20260410
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版
+
+  - title: 自动抢红包(模拟手动抢版)@。。
+    details: 版本 1.0.0 | 更新于 20260410
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动抢红包(模拟手动抢版)
+
+  - title: 进退群配置版@。。
+    details: 版本 2.3.0 | 更新于 20260410
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版
+
+  - title: 音频转换@。。
+    details: 版本 1.2.0 | 更新于 20260410
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换
+
   - title: 天气查询配置版@晚药
     details: 版本 2.2.0 | 更新于 20260404
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/天气预报
@@ -17,10 +37,6 @@ features:
   - title: 群聊统计分析@晚药
     details: 版本 9.1.0 | 更新于 20260401
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/晚药/群聊统计分析＋定时发送
-
-  - title: 进退群配置版@。。
-    details: 版本 2.2.0 | 更新于 20260331
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/进退群配置版
 
   - title: 自动增加步数@Wukon、VAY冬冬
     details: 版本 1.0.7 | 更新于 20260327
@@ -34,21 +50,9 @@ features:
     details: 版本 1.1.0 | 更新于 20260318
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/分组管理
 
-  - title: 群发助手@。。
-    details: 版本 1.1.0 | 更新于 20260318
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/群发助手
-
-  - title: 自动回复配置版@。。
-    details: 版本 2.1.0 | 更新于 20260318
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动回复配置版
-
   - title: 自动收款@。。
     details: 版本 1.2.0 | 更新于 20260318
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动收款
-
-  - title: 音频转换@。。
-    details: 版本 1.1.0 | 更新于 20260318
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换
 
   - title: 微信AI回复插件@Alan-qwq
     details: 版本 1.2.1 | 更新于 20260313

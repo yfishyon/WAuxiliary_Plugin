@@ -31,7 +31,7 @@ void onHandleMsg(Object msgInfoBean) {
         var talker = msgInfoBean.getTalker();
         if (content.startsWith("/点歌 ")) {
             var title = content.substring(4);
-            sendMusic(talker, title);
+            handleSendMusic(talker, title);
         }
     }
 }

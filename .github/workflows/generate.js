@@ -3,7 +3,10 @@ const path = require('path');
 const propReader = require('properties-reader');
 
 const repoRoot = process.cwd();
-const pluginsDir = path.join(repoRoot, 'plugins', 'v126');
+const pluginsDirs = [
+    path.join(repoRoot, 'plugins', 'v126'),
+    path.join(repoRoot, 'plugins', 'v127'),
+];
 const docsDir = path.join(repoRoot, 'docs');
 const outputMdFile = path.join(docsDir, 'index.md');
 const outputJsonFile = path.join(docsDir, 'index.json');
@@ -93,7 +96,10 @@ function generateJSON(plugins) {
     return JSON.stringify(jsonData, null, 2);
 }
 
-const plugins = traversePlugins(pluginsDir);
+const plugins = pluginsDirs
+    .filter(dir => fs.existsSync(dir))
+    .flatMap(dir => traversePlugins(dir))
+    .sort((a, b) => parseInt(b.updateTime) - parseInt(a.updateTime));
 console.log(`正在处理 ${plugins.length} 个插件`);
 
 const markdown = generateMarkdown(plugins);

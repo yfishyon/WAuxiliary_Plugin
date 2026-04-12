@@ -39,17 +39,27 @@ function parseInfoProp(filePath) {
     }
 }
 
+function toSafeFileName(value) {
+    return String(value)
+        .replace(/[\\/:*?"<>|]+/g, '_')
+        .replace(/\s+/g, ' ')
+        .trim();
+}
+
 function getPluginInfo(pluginPath) {
     const rel = path.relative(repoRoot, pluginPath).replace(/\\/g, '/');
     const homeLink = `https://github.com/HdShare/WAuxiliary_Plugin/tree/main/${rel}`;
+    const encodedHomeLink = encodeURIComponent(homeLink);
     const props = parseInfoProp(path.join(pluginPath, 'info.prop'));
+    const fileName = toSafeFileName(`${props.name}_${props.version}`);
+    const encodedFileName = encodeURIComponent(fileName);
     return {
         name: props.name,
         author: props.author,
         version: props.version,
         updateTime: props.updateTime,
         homeLink: homeLink,
-        downloadUrl: `https://minhaskamal.github.io/DownGit/#/home?url=${homeLink}`,
+        downloadUrl: `https://download-directory.github.io/?url=${encodedHomeLink}&filename=${encodedFileName}`,
     };
 }
 
